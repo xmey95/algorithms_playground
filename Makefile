@@ -2,7 +2,7 @@
 #  -Std defines compiler version
 CXXFLAGS  = -std=c++11
 
-PROGS=MinHeap MaxHeap Heapsort
+PROGS=MinHeap MaxHeap Heapsort RBTree
 
 # the build target executable:
 all: $(PROGS)
